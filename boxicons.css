@@ -378,3 +378,6 @@
 .bxl-linkedin-square:before { content: "\e94e"; }
 .bxl-twitter:before { content: "\e982"; }
 .bxl-github:before { content: "\e93a"; }
+.bx-menu:before {
+  content: "\eb5f";
+}
